@@ -2,7 +2,7 @@
 
 (상단 링크를 클릭하면, 배포된 웹 페이지에서 확인 가능합니다)
 
-## 🌟GitBook과 GitHub Repository 연동 및 활용
+# 🌟GitBook과 GitHub Repository 연동 및 활용
 
 ① Spaces에 노트 추가하고, 우측 상단 `Integrations` 클릭 후 `GitHub Sync` 클릭한 뒤 `Edit configuration` 하위에서 GitHub 계정 연동 및 Repository 선택을 통해 연동
 (프로젝트 적용 경로를 반드시 `/(roo)`로 설정하도록 한다)
