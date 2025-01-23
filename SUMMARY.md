@@ -4,11 +4,11 @@
 
 ## GitBook과 GitHub Repository 연동 및 활용
 
-- Spaces에 노트 추가하고, 우측 상단 `Integrations` 클릭 후 `GitHub Sync` 클릭한 뒤 `Edit configuration` 하위에서 GitHub 계정 연동 및 Repository 선택을 통해 연동
-  (프로젝트 적용 경로를 반드시 `/(roo)`로 설정하도록 한다)
+① Spaces에 노트 추가하고, 우측 상단 `Integrations` 클릭 후 `GitHub Sync` 클릭한 뒤 `Edit configuration` 하위에서 GitHub 계정 연동 및 Repository 선택을 통해 연동
+(프로젝트 적용 경로를 반드시 `/(roo)`로 설정하도록 한다)
 
-- 작성 내용을 Push한 뒤에 `Spaces` 하위 해당 노트에서 우측 상단 바로 하위에 있는 `Change requests`를 클릭하여 변경된 내용을 반영하도록 한다.
-  `(반영 후 1분 내외로 시간이 시간이 소요된다)`
+② 작성 내용을 Push한 뒤에 `Spaces` 하위 해당 노트에서 우측 상단 바로 하위에 있는 `Change requests`를 클릭하여 변경된 내용을 반영하도록 한다.
+`(반영 후 1분 내외로 시간이 시간이 소요된다)`
 
 <br/>
 
